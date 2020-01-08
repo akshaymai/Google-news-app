@@ -1,0 +1,26 @@
+
+.Newscard {
+    
+    width: 90%;
+    border: 2px solid whitesmoke;
+    padding: 50px;
+    margin: 20px;
+    height: 40%;
+    position: inherit;
+    cursor: pointer;
+    border:6px solid antiquewhite
+  }
+  .ui.image{
+    max-width: 120px;
+  }
+  .heading2{
+    font-size:inherit
+  }
+  .heading1{
+   font-size: inherit
+  }
+  .spanclass{
+    width: 80%;
+
+  } 
+  
